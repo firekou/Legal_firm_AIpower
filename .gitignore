@@ -1,0 +1,14 @@
+# 原始卷證 PDF 不入庫（存放於 Google Drive，以索引/連結引用）
+*.pdf
+
+# OS / 編輯器
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# 暫存
+/tmp/
+*.tmp
